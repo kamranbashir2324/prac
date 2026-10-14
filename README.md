@@ -1,3 +1,3 @@
 # prac
 <br>
-Author - Kamran
+Author - Kamran Bashir
